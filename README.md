@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 🦄
+
+I am Hardy, a full stack developer located in KL. Welcome to my GitHub profile!
+
+Little secret of mine, I am super obsess with clean coding!!
 
 <!--
 **HelloHardy/HelloHardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
